@@ -44,4 +44,4 @@ Visit the site and try out the calculator yourself [GraphingCalculator](https://
 1. First a lower and upper domain is determined, and the range between the domain is calculated (upper - lower domain)
 2. 5000 data point is obtained by using a for loop and the equation: LowerDomain + (Range*n)/5000
 3. Y value is calculated by subbing into the equation
-4. 5000 pairs of coorinates are obtained and plotted
+4. 5000 pairs of coordinates are obtained and plotted
