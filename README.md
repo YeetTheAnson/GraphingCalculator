@@ -2,6 +2,7 @@
 A graphing calculator made on html
 
 ![GraphingCalculator](https://github.com/YeetTheAnson/GraphingCalculator/raw/main/1.png)
+
 https://github.com/user-attachments/assets/33c21adc-c2e5-4a3d-8858-4eb220cfea37
 
 
